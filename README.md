@@ -7,7 +7,7 @@
 ## Requirements
 
 Make sure you have installed the following to run the project:
-- .Net core 5.0
+- .Net Core 5.0
 - Visual Studio 2019
 
 or
