@@ -1,0 +1,15 @@
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\bin\Debug\net5.0\RoamlerLocationSearch.Services.deps.json
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\bin\Debug\net5.0\RoamlerLocationSearch.Services.dll
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\bin\Debug\net5.0\ref\RoamlerLocationSearch.Services.dll
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\bin\Debug\net5.0\RoamlerLocationSearch.Services.pdb
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\bin\Debug\net5.0\RoamlerLocationSearch.Core.dll
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\bin\Debug\net5.0\RoamlerLocationSearch.Core.pdb
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\obj\Debug\net5.0\RoamlerLocationSearch.Services.csprojAssemblyReference.cache
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\obj\Debug\net5.0\RoamlerLocationSearch.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\obj\Debug\net5.0\RoamlerLocationSearch.Services.AssemblyInfoInputs.cache
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\obj\Debug\net5.0\RoamlerLocationSearch.Services.AssemblyInfo.cs
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\obj\Debug\net5.0\RoamlerLocationSearch.Services.csproj.CoreCompileInputs.cache
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\obj\Debug\net5.0\RoamlerLocationSearch.Services.csproj.CopyComplete
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\obj\Debug\net5.0\RoamlerLocationSearch.Services.dll
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\obj\Debug\net5.0\ref\RoamlerLocationSearch.Services.dll
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Services\obj\Debug\net5.0\RoamlerLocationSearch.Services.pdb

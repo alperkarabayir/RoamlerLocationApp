@@ -1,0 +1,11 @@
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\bin\Debug\net5.0\RoamlerLocationSearch.Core.deps.json
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\bin\Debug\net5.0\RoamlerLocationSearch.Core.dll
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\bin\Debug\net5.0\ref\RoamlerLocationSearch.Core.dll
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\bin\Debug\net5.0\RoamlerLocationSearch.Core.pdb
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\obj\Debug\net5.0\RoamlerLocationSearch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\obj\Debug\net5.0\RoamlerLocationSearch.Core.AssemblyInfoInputs.cache
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\obj\Debug\net5.0\RoamlerLocationSearch.Core.AssemblyInfo.cs
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\obj\Debug\net5.0\RoamlerLocationSearch.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\obj\Debug\net5.0\RoamlerLocationSearch.Core.dll
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\obj\Debug\net5.0\ref\RoamlerLocationSearch.Core.dll
+C:\Users\Alper\source\repos\RoamlerLocationSearch\RoamlerLocationSearch.Core\obj\Debug\net5.0\RoamlerLocationSearch.Core.pdb

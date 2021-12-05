@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoamlerLocationSearch.Api", "RoamlerLocationSearch.Api\RoamlerLocationSearch.Api.csproj", "{099115A1-A4CA-43B1-8E35-4AE16587743B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoamlerLocationSearch.Core", "RoamlerLocationSearch.Core\RoamlerLocationSearch.Core.csproj", "{594A8C83-4C43-4C60-B326-0A47C7A7009C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoamlerLocationSearch.Data", "RoamlerLocationSearch.Data\RoamlerLocationSearch.Data.csproj", "{3797C05A-7F24-4B72-9FBB-09E812329C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoamlerLocationSearch.Services", "RoamlerLocationSearch.Services\RoamlerLocationSearch.Services.csproj", "{0FC13BEA-8D3A-40E8-8CDC-7D046DADA245}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RoamlerLocationSearch.Tests", "RoamlerLocationSearch.Tests", "{0ACDA84F-D1E1-4F07-8BA5-AB4B8A5E940B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoamlerLocationSearch.IntegrationTest", "RoamlerLocationSearch.IntegrationTest\RoamlerLocationSearch.IntegrationTest.csproj", "{000F035F-8E08-4867-839E-F6675CF6B43E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoamlerLocationSearch.UnitTest", "RoamlerLocationSearch.UnitTest\RoamlerLocationSearch.UnitTest.csproj", "{8240A44C-1427-462F-B4CE-A1623308A3C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099115A1-A4CA-43B1-8E35-4AE16587743B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099115A1-A4CA-43B1-8E35-4AE16587743B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099115A1-A4CA-43B1-8E35-4AE16587743B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099115A1-A4CA-43B1-8E35-4AE16587743B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594A8C83-4C43-4C60-B326-0A47C7A7009C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594A8C83-4C43-4C60-B326-0A47C7A7009C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594A8C83-4C43-4C60-B326-0A47C7A7009C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594A8C83-4C43-4C60-B326-0A47C7A7009C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3797C05A-7F24-4B72-9FBB-09E812329C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3797C05A-7F24-4B72-9FBB-09E812329C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3797C05A-7F24-4B72-9FBB-09E812329C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3797C05A-7F24-4B72-9FBB-09E812329C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC13BEA-8D3A-40E8-8CDC-7D046DADA245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC13BEA-8D3A-40E8-8CDC-7D046DADA245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC13BEA-8D3A-40E8-8CDC-7D046DADA245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC13BEA-8D3A-40E8-8CDC-7D046DADA245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000F035F-8E08-4867-839E-F6675CF6B43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000F035F-8E08-4867-839E-F6675CF6B43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000F035F-8E08-4867-839E-F6675CF6B43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000F035F-8E08-4867-839E-F6675CF6B43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8240A44C-1427-462F-B4CE-A1623308A3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8240A44C-1427-462F-B4CE-A1623308A3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8240A44C-1427-462F-B4CE-A1623308A3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8240A44C-1427-462F-B4CE-A1623308A3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{000F035F-8E08-4867-839E-F6675CF6B43E} = {0ACDA84F-D1E1-4F07-8BA5-AB4B8A5E940B}
+		{8240A44C-1427-462F-B4CE-A1623308A3C6} = {0ACDA84F-D1E1-4F07-8BA5-AB4B8A5E940B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E98B9D14-121B-4918-B21D-B71BFBD89B22}
+	EndGlobalSection
+EndGlobal
